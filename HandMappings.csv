@@ -1,7 +1,7 @@
 city,State,Geo_CountyName,Hand_CountyName,ProblemCode,Comment
 Columbus,OH,"Delaware County, Fairfield County, Franklin County",Franklin County,CommaMatch,
 Des Moines,IA,"Polk County, Warren County",Polk County,CommaMatch,
-Draper,UT,"Salt Lake County, Utah County",Sal Lake County,CommaMatch,
+Draper,UT,"Salt Lake County, Utah County",Salt Lake County,CommaMatch,
 Aurora,CO,"Adams County, Arapahoe County, Douglas County",Arapahoe County,CommaMatch,
 Mabank,TX,"Henderson County, Kaufman County",Henderson County,CommaMatch,guess
 Fort Worth,TX,"Denton County, Parker County, Tarrant County, Wise County",Tarrant County,CommaMatch,
@@ -27,7 +27,7 @@ Edgewood,NM,"Bernalillo County, Sandoval County, Santa Fe County",Santa Fe Count
 Sand Springs,OK,"Osage County, Tulsa County",Tulsa County,CommaMatch,
 Chicago,IL,"Cook County, DuPage County",Cook County,CommaMatch,
 Irmo,SC,"Lexington County, Richland County",Richland County,CommaMatch,
-New York,NY,"Bronx County, Kings County, New York County, Queens County, Richmond County",King County,CommaMatch,guess
+New York,NY,"Bronx County, Kings County, New York County, Queens County, Richmond County",Kings County,CommaMatch,guess
 Marion,IL,"Johnson County, Williamson County",Williamson County,CommaMatch,
 Smyrna,DE,"Kent County, New Castle County",Kent County,CommaMatch,
 Garland,TX,"Collin County, Dallas County, Rockwall County",Dallas County,CommaMatch,
@@ -47,12 +47,12 @@ Nitro,WV,"Kanawha County, Putnam County",Kanawha County,CommaMatch,
 Summerville,SC,"Berkeley County, Charleston County, Dorchester County",Dorchester County,CommaMatch,
 Odessa,TX,"Ector County, Midland County",Ector County,CommaMatch,
 Arab,AL,"Cullman County, Marshall County",Marshall County,CommaMatch,
-Archdale,NC,"Guilford County, Randolph County",Guillford County,CommaMatch,
+Archdale,NC,"Guilford County, Randolph County",Guilford County,CommaMatch,
 Springtown,TX,"Parker County, Wise County",Parker County,CommaMatch,
 Durham,NC,"Durham County, Orange County, Wake County",Durham County,CommaMatch,
 Amarillo,TX,"Potter County, Randall County",Potter County,CommaMatch,
 Salem,OR,"Marion County, Polk County",Marion County,CommaMatch,
-Goose Creek,SC,"Berkeley County, Charleston County",Berkely County,CommaMatch,
+Goose Creek,SC,"Berkeley County, Charleston County",Berkeley County,CommaMatch,
 Brighton,CO,"Adams County, Weld County",Adams County,CommaMatch,
 Cayce,SC,"Lexington County, Richland County",Lexington County,CommaMatch,
 Arlington,GA,"Calhoun County, Early County",Calhoun County,CommaMatch,
@@ -72,7 +72,7 @@ Raleigh,NC,"Durham County, Wake County",Wake County,CommaMatch,
 Piedmont,AL,"Calhoun County, Cherokee County",Calhoun County,CommaMatch,
 Thornton,CO,"Adams County, Weld County",Adams County,CommaMatch,
 Lee's Summit,MO,"Cass County, Jackson County",Jackson County,CommaMatch,
-Piedmont,SC,"Anderson County, Greenville County",Greeneville County,CommaMatch,guess
+Piedmont,SC,"Anderson County, Greenville County",Greenville County,CommaMatch,guess
 Eau Claire,WI,"Chippewa County, Eau Claire County",Eau Claire County,CommaMatch,
 Westminster,CO,"Adams County, Jefferson County",Adams County,CommaMatch,guess
 Weirton,WV,"Brooke County, Hancock County",Hancock County,CommaMatch,
