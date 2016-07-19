@@ -93,7 +93,7 @@ Roxand Township,MI,NA,Eaton County,NoMatch,
 St Louis,MO,NA,St. Louis County,NoMatch,
 La Paz County,AZ,NA,La Paz County,NoMatch,
 Barton,MS,NA,Marshall County,NoMatch,
-Joilet,IL,NA,Kendall and Will counties,NoMatch,2 counties
+Joilet,IL,NA,KendallÂ andÂ WillÂ counties,NoMatch,2 counties
 Putnam Hall,FL,NA,Putnam County,NoMatch,
 Madison,WI,Inf,Dane County,NoMatch,
 Ruth,MS,NA,Lincoln County,NoMatch,
@@ -109,7 +109,7 @@ Hamilton,NJ,Inf,Mercer County,NoMatch,
 Jefferson County,ID,NA,Jefferson County,NoMatch,
 Pottawatomie County,OK,NA,Pottawatomie County,NoMatch,
 Straban Township,PA,NA,Adams County,NoMatch,
-Cañon City,CO,NA,Fremont County,NoMatch,"typo in name, seems to be Canon (with a tilda over the 'n')"
+CaÃ±on City,CO,NA,Fremont County,NoMatch,"typo in name, seems to be Canon (with a tilda over the 'n')"
 Sylmar,CA,NA,Los Angeles County,NoMatch,
 Rufe,OK,NA,McCurtain County,NoMatch,
 Bunch,OK,NA,Adair County,NoMatch,
@@ -208,12 +208,12 @@ Clearlake Park,CA,NA,Lake County,NoMatch,
 Macon County,AL,NA,Macon County,NoMatch,
 Brooksville,AL,NA,Blount County,NoMatch,
 Antigo,WI,Inf,Langlade County,NoMatch,
-Wausau,WI,Inf, Marathon County,NoMatch,
+Wausau,WI,Inf,Â Marathon County,NoMatch,
 Hog Valley,FL,NA,Marion County,NoMatch,
 Boyle Heights,CA,NA,Los Angeles County,NoMatch,
 Jacksonsville,FL,NA,Duval County,NoMatch,
 Osteen,FL,NA,Volusia County,NoMatch,
-Shawnee National Forest,IL,NA,Saline County,NoMatch,"Forest is located in parts of Pope, Jackson, Union, Hardin, Alexander, Saline, Gallatin, Johnson, and Massac counties. Headquarters in Harrisburg IL so I put the county for that city"
+Shawnee National Forest,IL,NA,Saline County,NoMatch,"Forest is located in parts of Pope,Â Jackson,Â Union,Â Hardin,Â Alexander,Â Saline,Â Gallatin,Â Johnson, andÂ MassacÂ counties. Headquarters in Harrisburg IL so I put the county for that city"
 Siskiyou County,CA,NA,Siskiyou County,NoMatch,
 Fisty,KY,NA,Knott County,NoMatch,
 Chesterfield County,SC,NA,Chesterfield County,NoMatch,
